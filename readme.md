@@ -1,0 +1,1 @@
+This is the repo for every solutions of the lab assignments of CSE423, Computer Graphics, of BRAC University. First two assignments are 2d related assignment and third one is 3d assignment. First copy the opengl folder to any of the Lab folder so that opengl folder and py file is in the same folder then run the py file
